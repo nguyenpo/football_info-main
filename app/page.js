@@ -9,7 +9,7 @@ export default async function Home() {
   const matchesDatasFinished = getDatasFinished?.matches
 
   const nd = new Date()
-  const dateConvert = nd.toLocaleTimeString('en-US', {
+  const dateConvert = nd.toLocaleString('en-US', {
     day: '2-digit',
     month: '2-digit',
     year:'numeric',
