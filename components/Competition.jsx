@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Competition = ({ data }) => {
   const nd = new Date(data?.utcDate);
-  const dateConvert = nd.toLocaleString('vi-VN', {
+  const dateConvert = nd.toLocaleString('en-US', {
     day: '2-digit',
     month: '2-digit',
     year:'numeric',

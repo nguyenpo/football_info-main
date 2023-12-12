@@ -9,11 +9,10 @@ export default async function Home() {
   const matchesDatasFinished = getDatasFinished?.matches
 
   const nd = new Date()
-  const dateConvert = nd.toLocaleString('vi-VN', {
+  const dateConvert = nd.toLocaleTimeString('en-US', {
     day: '2-digit',
     month: '2-digit',
     year:'numeric',
-   
   });
 
   return (
