@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const Matches = ({ data }) => {
-  const getDate = new Date(data?.utcDate).toLocaleTimeString("en-US", {
+  const getDate = new Date(data?.utcDate).toLocaleTimeString("vi-VN", {
     hour: "2-digit",
     minute: "2-digit",
   });
