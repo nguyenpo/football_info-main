@@ -14,4 +14,4 @@ const UEFAChampionsLeague = async () => {
   );
 };
 
-export default SerieA;
+export default UEFAChampionsLeague;
