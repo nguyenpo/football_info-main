@@ -9,13 +9,7 @@ export default async function Home() {
   const matchesDatasFinished = getDatasFinished?.matches
 
   const nd = new Date()
-  const dateConvert = nd.toLocaleString("vi-VN", {
-    day:"2-digit",
-    month:"2-digit",
-    year:"numeric",
-    hour:"2-digit",
-    minute:"2-digit"
-  })
+  const dateConvert = nd.toLocaleString();
 
   return (
     <section className="px-2 md:px-4 md:w-[600px]">
