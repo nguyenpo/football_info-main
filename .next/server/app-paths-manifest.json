@@ -1,5 +1,16 @@
 {
-  "/page": "app/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/(Leagues)/brazilian-series-a/page": "app/(Leagues)/brazilian-series-a/page.js",
+  "/(Leagues)/bundesliga/page": "app/(Leagues)/bundesliga/page.js",
   "/(Leagues)/championship/page": "app/(Leagues)/championship/page.js",
-  "/(Leagues)/uefa-champions-league/page": "app/(Leagues)/uefa-champions-league/page.js"
+  "/(Leagues)/la-liga/page": "app/(Leagues)/la-liga/page.js",
+  "/(Leagues)/copa-libertadores/page": "app/(Leagues)/copa-libertadores/page.js",
+  "/(Leagues)/eredivisie/page": "app/(Leagues)/eredivisie/page.js",
+  "/(Leagues)/premier-league/page": "app/(Leagues)/premier-league/page.js",
+  "/(Leagues)/ligue-1/page": "app/(Leagues)/ligue-1/page.js",
+  "/(Leagues)/primeira-liga/page": "app/(Leagues)/primeira-liga/page.js",
+  "/(Leagues)/serie-a/page": "app/(Leagues)/serie-a/page.js",
+  "/(Leagues)/uefa-champions-league/page": "app/(Leagues)/uefa-champions-league/page.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

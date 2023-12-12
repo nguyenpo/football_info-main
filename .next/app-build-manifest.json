@@ -1,35 +1,194 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+    "/_not-found": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/_not-found-6cad3cc3357c45d3.js"
     ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/layout": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/518-55a9821240020954.js",
+      "static/css/272c97072925d1d5.css",
+      "static/chunks/app/layout-7672b9dd1ed1bf32.js"
+    ],
+    "/(Leagues)/brazilian-series-a/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/brazilian-series-a/page-32178ab74813cae8.js"
+    ],
+    "/(Leagues)/brazilian-series-a/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/brazilian-series-a/loading-1bd47ce1c5a14589.js"
+    ],
+    "/(Leagues)/bundesliga/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/bundesliga/page-475e943d3e95d88d.js"
+    ],
+    "/(Leagues)/bundesliga/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/bundesliga/loading-1117e0c4e5209101.js"
     ],
     "/(Leagues)/championship/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(Leagues)/championship/page.js"
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/championship/page-e620226ddfe1aaab.js"
     ],
     "/(Leagues)/championship/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(Leagues)/championship/loading.js"
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/championship/loading-e90655f4250f72b1.js"
+    ],
+    "/(Leagues)/la-liga/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/la-liga/page-e0ea4f4aa8e31826.js"
+    ],
+    "/(Leagues)/la-liga/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/la-liga/loading-70cbb25aa86f2e35.js"
+    ],
+    "/(Leagues)/copa-libertadores/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/copa-libertadores/page-e7966c1bc008b9e3.js"
+    ],
+    "/(Leagues)/copa-libertadores/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/copa-libertadores/loading-0647926f9e492aad.js"
+    ],
+    "/(Leagues)/eredivisie/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/eredivisie/page-0ab3f4d0e6bda143.js"
+    ],
+    "/(Leagues)/eredivisie/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/eredivisie/loading-8e71e876f33a800b.js"
+    ],
+    "/(Leagues)/premier-league/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/premier-league/page-285a577c89d57b41.js"
+    ],
+    "/(Leagues)/premier-league/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/premier-league/loading-b536a67980d2d341.js"
+    ],
+    "/(Leagues)/ligue-1/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/ligue-1/page-40f23b7c85c413d0.js"
+    ],
+    "/(Leagues)/ligue-1/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/ligue-1/loading-fad0f060c3b30a6e.js"
+    ],
+    "/(Leagues)/primeira-liga/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/primeira-liga/page-7507934597cdd633.js"
+    ],
+    "/(Leagues)/primeira-liga/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/primeira-liga/loading-82d6017d1683ff6c.js"
+    ],
+    "/(Leagues)/serie-a/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/serie-a/page-fb49e6eeb4f699c6.js"
+    ],
+    "/(Leagues)/serie-a/loading": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/serie-a/loading-5fabe3485e22ea81.js"
     ],
     "/(Leagues)/uefa-champions-league/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(Leagues)/uefa-champions-league/loading.js"
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/app/(Leagues)/uefa-champions-league/loading-f7824bef23550cbf.js"
     ],
     "/(Leagues)/uefa-champions-league/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(Leagues)/uefa-champions-league/page.js"
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/(Leagues)/uefa-champions-league/page-f33132d7b44335dc.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-91796e1d6c927e26.js",
+      "static/chunks/fd9d1056-41e60764bd515a89.js",
+      "static/chunks/472-38a3b4339224f293.js",
+      "static/chunks/main-app-027aca86ff87a366.js",
+      "static/chunks/413-c0685cb9d641da6f.js",
+      "static/chunks/app/page-565916cf7aa10484.js"
     ]
   }
 }
