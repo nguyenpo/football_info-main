@@ -60,7 +60,13 @@ const Leagues = [
     name: "Eredivisie",
     href: "eredivisie",
     emblem: "/img/leagues/eredivisie.webp",
+  },{
+    id: 11,
+    name: "UEFA Champions League",
+    href: "uefa-champions-league",
+    emblem: "/img/leagues/uefa_champions_league.webp",
   },
+
 ];
 
 const Sidebar = async () => {
